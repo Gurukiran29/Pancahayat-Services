@@ -70,9 +70,9 @@ The **Panchayat Service App** is an Android application designed to provide esse
 - Introducing multi-language support for broader accessibility.  
 
 ---
-##Contact
-For any questions or suggestions, feel free to reach out:
 
-- ##Developer##: Gurukiran M
-- ##Email##: gurukiranm2933@gmail.com
-- ##LinkedIn##: https://www.linkedin.com/in/gurukiran-m-6597a127a
+## Contact
+For any questions or suggestions, feel free to reach out:
+## Developer : Gurukiran M
+## Email: gurukiranm2933@gmail.com
+## LinkedIn##: https://www.linkedin.com/in/gurukiran-m-6597a127a
